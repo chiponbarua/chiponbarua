@@ -1,0 +1,29 @@
+.first {
+    
+    margin: 10px;
+    padding: 10px;
+    background-color: burlywood;
+    color:cadetblue;
+    height: 500px;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.second {
+    /* margin-left: auto; */
+   
+    padding: 10px;
+    background-color: lightsalmon;
+    width:400px;
+    height:150px;
+
+}
+
+.third {
+    margin-top: 20px;
+    background-color: lightslategrey;
+    padding: 15px;
+    width: 400px;
+    height: 150px;
